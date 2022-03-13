@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">togetherlistapp</string>
+    <string name="facebook_app_id">1692415711102578</string>
+    <string name="fb_login_protocol_scheme">fb1365719610250300</string>
+    <string name="facebook_client_token">eeeb3949ddf11957e97ae209266a349e</string>
+</resources>

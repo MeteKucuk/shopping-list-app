@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "923954671239",
+    "project_id": "togetherlistapp",
+    "storage_bucket": "togetherlistapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923954671239:android:ca46d18855df6d957c1222",
+        "android_client_info": {
+          "package_name": "com.totech.togethershoplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923954671239-12tpq73bklu98i5ib2rfohfges0u748m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.totech.togethershoplist",
+            "certificate_hash": "05e0d27b8f1235f3976258647c2bb3c9ed99c6d0"
+          }
+        },
+        {
+          "client_id": "923954671239-84504rfoaq0989q3j65dhtdcaei3eo8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDwMtLLoAJ20OVqX7t21u-J0tniJ2LZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923954671239-84504rfoaq0989q3j65dhtdcaei3eo8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923954671239-kbqdm5l7sp1kslsf1gpt0nv9bbnirn2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totech.togethershoplist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
